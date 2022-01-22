@@ -1,1 +1,5 @@
 CHANGELOG - Informações sobre atualizações do projeto.
+
+
+v1.0.0
+- Cria arquivo changelog.txt (George)
